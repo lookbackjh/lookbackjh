@@ -1,7 +1,10 @@
--Hi, I’m Junho from Seoul,Korea.
--I’m majoring in IE(Industrial Engineering) at Hanyang University,Seoul 
--I’m currently learning CS subjects and ML techniques. 
--Some algorithm problems from various sites or things That I study will be uploaded..
+Hi, I’m Junho from Seoul,Korea.
+
+I’m majoring in IE(Industrial Engineering) at Hanyang University,Seoul 
+
+I’m currently learning CS subjects and ML techniques. 
+
+Some algorithm problems from various sites or things That I study will be uploaded..
 
 
 <!---
