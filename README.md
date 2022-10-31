@@ -1,6 +1,6 @@
 Hi, I’m Junho from Seoul,Korea.
 
-I’m majoring in IE(Industrial Engineering) at Hanyang University,Seoul 
+I’m majoring in IE(Industrial Engineering) at University,Seoul 
 
 Interested in learning CS subjects and ML techniques or Statistics and applying it to the real world. 
 
