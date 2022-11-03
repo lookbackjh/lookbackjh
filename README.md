@@ -2,7 +2,7 @@ Hi, I’m Junho from Seoul,Korea.
 
 I’m majoring in IE(Industrial Engineering) at University,Seoul 
 
-Interested in learning CS subjects and ML/ techniques or Statistics and applying it to the real world. 
+Interested in learning CS subjects and ML/DL techniques or Statistics and applying it to the real world. 
 
 Some algorithm problems from various sites or things That I study will be uploaded..
 
