@@ -1,6 +1,6 @@
 Hi, I’m Junho from Seoul,Korea.
 
-I'm currently pursuing my master's degree at the Intelligent Data Systems Laboratory, Hanyang University, Seoul, Korea. My major is Industrial Engineering, and I'm enthusiastic about acquiring skills in statistical and machine/deep learning to address real-world challenges. My research interests encompass feature selection, network compression, and recommendation systems.
+I'm currently pursuing my master's degree at the Intelligent Data Systems Laboratory, Hanyang University, Seoul, Korea. My major is Industrial Engineering, and I'm enthusiastic about acquiring skills in statistical or machine/deep learning techniques to address real-world challenges. My research interests encompass feature selection, network compression, and recommendation systems.
 
 My CV can be seen [here](https://github.com/lookbackjh/lookbackjh/blob/main/CV_junho.pdf)
 
